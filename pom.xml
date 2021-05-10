@@ -56,6 +56,21 @@
 			<groupId>org.springframework.session</groupId>
 			<artifactId>spring-session-jdbc</artifactId>
 		</dependency>
+        <dependency>
+            <groupId>org.thymeleaf</groupId>
+            <artifactId>thymeleaf</artifactId>
+            <version>3.0.12.RELEASE</version>
+        </dependency>
+		<dependency>
+			<groupId>org.apache.maven</groupId>
+			<artifactId>maven-model</artifactId>
+			<version>3.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>5.3.6</version>
+		</dependency>
 	</dependencies>
 
 	<build>
