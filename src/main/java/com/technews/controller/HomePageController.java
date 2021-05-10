@@ -18,6 +18,7 @@ import java.util.List;
 
 @Controller
 public class HomePageController {
+
     @Autowired
     UserRepository userRepository;
 
@@ -201,4 +202,6 @@ public class HomePageController {
 
         return model;
     }
+
+
 }

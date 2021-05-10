@@ -182,4 +182,5 @@ public class TechNewsController {
             returnPost.setVoteCount(voteRepository.countVotesByPostId(vote.getPostId()));
         }
     }
+
 }
