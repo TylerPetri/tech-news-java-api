@@ -19,6 +19,7 @@ https://news5000.herokuapp.com/
 * [Spring](https://spring.io/) - Framework of the project
 * [MVNrepository](https://mvnrepository.com/) - Additional packages
 * [Insomnia](https://insomnia.rest/) - Testing
+* [MySQL](https://www.mysql.com/) - Database used
 
 ## Contributing
 
